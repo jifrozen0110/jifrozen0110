@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jifrozen0110
 - 🤣 I'm busy as usual
-- ❤I'm a student at Duksung Women's University, Department of Computer Engineering❤
-- 🙌🙌I'm interested in back-end development.🙌🙌
+- ❤I am a student at Duksung Women's University, Department of Computer Science❤
 
 
  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=jifrozen0110)](https://github.com/anuraghazra/github-readme-stats)
