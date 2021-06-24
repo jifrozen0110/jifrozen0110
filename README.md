@@ -28,6 +28,6 @@
 
 # Me 👍
 
-<img src="https://img.shields.io/badge/-Tech%20blog-%231AB7EA?style=flat-square&logo=Vimeo&logoColor=white" href="https://velog.io/@jifrozen"/></a>
+<a href="https://velog.io/@jifrozen"><img src="https://img.shields.io/badge/-Tech%20blog-%231AB7EA?style=flat-square&logo=Vimeo&logoColor=white"/></a>
 
 </div>
