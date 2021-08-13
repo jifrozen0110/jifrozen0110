@@ -11,7 +11,7 @@
   
 
 ### I am a student at Duksung Women's University, Department of Computer Science
-
+![jifrozen0110's GitHub stats](https://github-readme-stats.vercel.app/api?username=jifrozen0110&show_icons=true&theme=synthwave)
 
 
 
