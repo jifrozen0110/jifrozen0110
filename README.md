@@ -13,6 +13,8 @@
 ### I am a student at Duksung Women's University, Department of Computer Science
 ![jifrozen0110's GitHub stats](https://github-readme-stats.vercel.app/api?username=jifrozen0110&show_icons=true&theme=synthwave)
 
+[![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=answldjs1836)](https://solved.ac/answldjs1836)
 
 
 # 🛠Teck Stack🛠
