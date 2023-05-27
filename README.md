@@ -5,8 +5,24 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=ji%20Frozen&fontSize=90&animation=fadeIn)
 
+  
+### Time Line 🏃
+  
+2018.03 덕성여자대학교 컴퓨터공학과 입학
 
+2020.03 ~ 2020.10 IT [WISET ICT 팀프로젝트] Night_Friends, 본선
 
+2021.03 ~ 2021.10 MSA 기반 경매방식의 앱 개발 - 회식모아(Dining-together) - 오픈인프라개발경진대회 동상, 한이음 입선 🏆
+  
+2021.11 ~ 2021.12 [원티드 해커톤] 발자꾹
+  
+2022.02 ~ 2022.11 GAN 기반 나만의 화상회의 - 체크메이트(Checkmate) - ACK 2022 학술발표대회 논문 게재 (http://www.koreascience.or.kr/article/CFKO202233649488417.pdf), 한이음 입선 🏆 
+  
+2023.03 덕성여자대학교 컴퓨터공학과 졸업 🎓
+  
+2023.03 ~ 현재 카카오엔터프라이즈 인턴 👩🏻‍💻
+
+  
 # 👋 Hi, I’m @jifrozen0110.  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fjifrozen0110&count_bg=%23F7B6CE&title_bg=%23FF004D&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
   
 
